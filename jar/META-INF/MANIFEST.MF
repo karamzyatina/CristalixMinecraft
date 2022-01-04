@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Virtualize-Container: true
+CheatEngine-Verify: true
+
