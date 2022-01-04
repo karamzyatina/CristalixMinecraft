@@ -1,0 +1,5 @@
+enum RD {
+   FLYING,
+   HOOKED_IN_ENTITY,
+   BOBBING;
+}

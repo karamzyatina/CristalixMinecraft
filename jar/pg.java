@@ -1,0 +1,6 @@
+public enum PG {
+   CROSSED,
+   ATTACKING,
+   SPELLCASTING,
+   BOW_AND_ARROW;
+}
