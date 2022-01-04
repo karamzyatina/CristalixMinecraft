@@ -1,0 +1,16 @@
+public enum agm {
+   ANVIL,
+   BEACON,
+   BREWING_STAND,
+   CHEST,
+   CRAFTING,
+   DISPENSER,
+   ENCHANTMENT,
+   FURNACE,
+   HOPPER,
+   HORSE,
+   VILLAGER,
+   SHULKER_BOX,
+   CREATIVE,
+   INVENTORY;
+}
