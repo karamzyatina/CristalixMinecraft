@@ -1,0 +1,4 @@
+public enum Ef {
+   REBUILD_CHUNK,
+   RESORT_TRANSPARENCY;
+}
